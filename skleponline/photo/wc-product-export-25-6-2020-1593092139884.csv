@@ -1,0 +1,24 @@
+
+﻿ID,Typ,SKU,Nazwa,Opublikowany,"Wyróżniony produkt?","Widoczność w katalogu","Krótki opis",Opis,"Data rozpoczęcia promocji","Data zakończenia promocji","Status podatku","Klasa podatkowa","W magazynie?",Magazyn,"Niski stan magazynowy","Pozwalać na zamówienia oczekujące (na dostawę do magazynu)?","Sprzedawany pojedynczo?","Waga (kg)","Długość (cm)","Szerokość (cm)","Wysokość (cm)","Włącz opinie klientów?","Notatka do zakupu","Cena promocyjna",Cena,Kategorie,Tagi,"Klasa wysyłkowa",Obrazki,"Limit pobrań","Ważność pobierania",Rodzic,"Produkty grupowe","Produkty ""up-sell""","Produkty ""Cross-sell""","Zewnętrzny adres URL","Tekst przycisku",Pozycja
+808,simple,,"Zegarek damski 1",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,299,Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/01-1.jpg,,,,,,,,,0
+810,simple,,"Zegarek damski 2",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,299,Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/02-2.jpg,,,,,,,,,0
+812,simple,,"Zegarek damski 3",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,279,Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/03-3.jpg,,,,,,,,,0
+814,simple,,"Zegarek damski 4",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,279,Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/04-4.jpg,,,,,,,,,0
+816,simple,,"Zegarek damski 5",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,279,Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/05-5.jpg,,,,,,,,,0
+824,simple,,"Zegarek damski 9",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,279,Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/09-9.jpg,,,,,,,,,0
+828,simple,,"Drewniany zegarek Pauline",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,279,Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/11-11.jpg,,,,,,,,,0
+830,simple,,"Zegarek damski 12",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,"299,00",Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/12-12.jpg,,,,,,,,,0
+838,simple,,"Zegar ścienny 1",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,129,Zegary,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/1-1.png,,,,,,,,,0
+840,simple,,"Zegar ścienny 2",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,139,Zegary,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/2-2-1-1.jpg,,,,,,,,,0
+844,simple,,"Grawer 1",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,399,ZZGrawer,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/1-1-1.jpg,,,,,,,,,0
+846,simple,,"Grawer 2",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,399,ZZGrawer,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/1-1-2.jpg,,,,,,,,,0
+848,simple,,"Grawer 3",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,399,ZZGrawer,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/1-1aaaaaaa.jpg,,,,,,,,,0
+854,simple,,"Damski zegarek 6",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,279,Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/06-6-1.jpg,,,,,,,,,0
+856,simple,,"Damski zegarek 7",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,279,Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/07-7-1.jpg,,,,,,,,,0
+858,simple,,"Drewniany zegarek Veronica",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,279,Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/08-8-1.jpg,,,,,,,,,0
+860,simple,,"Drewniany zegarek Katie",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,299,Damskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/10-10-1.jpg,,,,,,,,,0
+862,simple,,"Zegarek męski 1",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,329,Męskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/05-23a-1.jpg,,,,,,,,,0
+865,simple,,"Zegarek męski 2",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,329,Męskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/02-1aa-1-1.jpg,,,,,,,,,0
+867,simple,,"Zegarek męski 3",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,329,Męskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/10-10-1-1.jpg,,,,,,,,,0
+869,simple,,"Zegarek męski 4",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,329,Męskie,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/12-12-1.jpg,,,,,,,,,0
+872,simple,,"Zegar ścienny 3",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,139,Zegary,,,http://127.0.0.1/wordpress/wp-content/uploads/2020/05/4-4-1-1.jpg,,,,,,,,,0
